@@ -1,0 +1,17 @@
+ Volume in drive C is OS
+ Volume Serial Number is BCCA-C618
+
+ Directory of c:\DEV\projects\IntrinsicTypeConversion
+
+01/30/2025  03:18 PM    <DIR>          .
+01/30/2025  03:17 PM    <DIR>          ..
+01/30/2025  03:17 PM             1,666 abstraction.h
+01/30/2025  03:17 PM               929 example.cpp
+01/30/2025  03:18 PM                 0 foo
+01/30/2025  03:17 PM               245 job.sbatch
+01/30/2025  03:17 PM               403 makefile
+01/30/2025  03:17 PM             1,306 mpi_wrappers.cpp
+01/30/2025  03:17 PM               534 mpi_wrappers.h
+01/30/2025  03:17 PM                27 README.md
+               8 File(s)          5,110 bytes
+               2 Dir(s)  872,608,731,136 bytes free
